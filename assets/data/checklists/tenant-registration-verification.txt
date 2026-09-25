@@ -1,0 +1,12 @@
+SINDH POLICE TENANT REGISTRATION / VERIFICATION
+Official-source preparation checklist
+
+[ ] Official Sindh Police Tenant Registration System kholein
+[ ] Current online form aur required fields dekhein
+[ ] Portal par mangay gaye current documents tayyar karein
+[ ] Submission se pehle tamam entries review karein
+[ ] Application receipt ya reference number sambhal kar rakhein
+
+Official portal: https://tenantregister.sindhpolice.gov.pk
+
+Current document prompts, fee aur timing ke liye official portal follow karein.

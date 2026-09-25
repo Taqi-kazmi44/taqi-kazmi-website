@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullah-zahid44.github.io/taqi-kazmi-website/sitemap.xml
+Sitemap: https://abdullah-zahid44.github.io/taqi-kazmi-website/assets/sitemap.xml
