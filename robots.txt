@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://taqi-kazmi44.github.io/taqi-kazmi-website/sitemap.xml
