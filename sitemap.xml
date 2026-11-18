@@ -463,12 +463,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://taqi-kazmi44.github.io/taqi-kazmi-website/pages/2026-11-17-sc-placenta-trade-bail.html</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://taqi-kazmi44.github.io/taqi-kazmi-website/pages/2026-11-17-scmr115-daud-narcotics-bail.html</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1515,6 +1509,12 @@
   <url>
     <loc>https://taqi-kazmi44.github.io/taqi-kazmi-website/services.html</loc>
     <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://taqi-kazmi44.github.io/taqi-kazmi-website/pages/2026-11-18-shehla-bibi-bhakkar-acquittal-murder.html</loc>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
